@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mgss"]
+	path = mgss
+	url = https://github.com/splinesmoothing/mgss
+	shallow = true
+	subdir = mgss
+	registered = true
