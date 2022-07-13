@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mgss",
+    "oncran": true
+  }
+]
